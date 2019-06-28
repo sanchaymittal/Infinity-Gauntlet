@@ -1,0 +1,29 @@
+body {
+  background-color: #BADA55;
+}
+
+.container {
+  height: 100vh;
+}
+
+#snap {
+  height: 80px;
+  width: 80px;
+background: 
+url('https://www.google.com/logos/fnbx/thanos/thanos_snap.png') 0px 0px;
+}
+
+#time {
+  height: 80px;
+  width: 80px;
+background: 
+url('https://www.google.com/logos/fnbx/thanos/thanos_time.png') 0px 0px;
+}
+
+.text-green {
+  color: #BADA55;
+}
+
+.border-custom {
+  border: solid #c3c3c3 1px;
+}
